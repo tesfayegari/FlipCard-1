@@ -11,8 +11,11 @@
       ]
     }
   },
-  "externals": {},
+  "externals": {
+    "sp-client-custom-fields": "node_modules/sp-client-custom-fields/dist/sp-client-custom-fields.bundle.js"
+  },
   "localizedResources": {
-    "FlipCardWebPartStrings": "lib/webparts/flipCard/loc/{locale}.js"
+    "FlipCardWebPartStrings": "lib/webparts/flipCard/loc/{locale}.js",
+    "sp-client-custom-fields/strings": "/node_modules/sp-client-custom-fields/lib/loc/{locale}.js"
   }
 }

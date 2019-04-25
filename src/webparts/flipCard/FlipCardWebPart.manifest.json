@@ -18,7 +18,7 @@
     "group": { "default": "Other" },
     "title": { "default": "FlipCard" },
     "description": { "default": "FlipCard description" },
-    "officeFabricIconFontName": "Page",
+    "officeFabricIconFontName": "GridViewSmall",
     "properties": {
       "description": "FlipCard"
     }

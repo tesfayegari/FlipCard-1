@@ -2,6 +2,8 @@ declare interface IFlipCardWebPartStrings {
   PropertyPaneDescription: string;
   BasicGroupName: string;
   DescriptionFieldLabel: string;
+  Items: string;
+  ManageItems: string;
 }
 
 declare module 'FlipCardWebPartStrings' {

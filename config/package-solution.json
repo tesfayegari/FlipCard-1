@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "flip-card-client-side-solution",
+    "id": "d1005967-02b9-41ff-9b82-9991b9d6112e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/flip-card.sppkg"
+  }
+}

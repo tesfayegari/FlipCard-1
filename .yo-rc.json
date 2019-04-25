@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "flip-card",
+    "libraryId": "d1005967-02b9-41ff-9b82-9991b9d6112e",
+    "environment": "spo"
+  }
+}

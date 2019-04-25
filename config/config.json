@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "flip-card-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/flipCard/FlipCardWebPart.js",
+          "manifest": "./src/webparts/flipCard/FlipCardWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "FlipCardWebPartStrings": "lib/webparts/flipCard/loc/{locale}.js"
+  }
+}
